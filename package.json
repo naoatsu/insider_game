@@ -11,5 +11,8 @@
     "socket.io"
   ],
   "author": "natsu",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.1.3"
+  }
 }
