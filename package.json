@@ -13,6 +13,7 @@
   "author": "natsu",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "socket.io": "^4.1.3"
   }
 }
